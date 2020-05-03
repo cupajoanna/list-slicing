@@ -1,5 +1,6 @@
 """Utilities for manipulating lists."""
 
+print("hello world")
 
 def head(input_list):
     """Return the first item of the input list.
